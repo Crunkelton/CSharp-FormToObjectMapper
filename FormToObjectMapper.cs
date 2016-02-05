@@ -1,3 +1,7 @@
+/*
+*   Title: Form To Object Mapper
+*   Author: Joshua Lee
+*/
 using System;
 using System.Collections;
 using System.Collections.Generic;
